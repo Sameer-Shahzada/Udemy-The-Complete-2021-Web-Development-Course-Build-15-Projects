@@ -15,7 +15,7 @@ Math Website
 - [Source code](./1.Maths-Website(HTML+CSS)Project/)
 
 Photo Gallery
-- [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//1.Photo-Gallery/index.html)
+- [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//2.Photo-Gallery/index.html)
 - [Source code](./2.Photo-Gallery/)
 
 Payment Gateway 
