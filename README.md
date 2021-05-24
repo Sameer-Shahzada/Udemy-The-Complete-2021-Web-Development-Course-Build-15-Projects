@@ -10,6 +10,7 @@ About this course The only course you need to become a full-stack web developer.
 
 ## Projects 
 HTML + CSS Projects:
+
 Math Website
 - [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//1.Maths-Website(HTML+CSS)Project/Math-Website.html)
 - [Source code](./1.Maths-Website(HTML+CSS)Project/)
