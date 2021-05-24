@@ -11,3 +11,9 @@ About this course The only course you need to become a full-stack web developer.
 ## Projects 
 - [Web Pages](Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects/1. Maths Website (HTML + CSS) Project/
 Math-Website.html)
+
+Module2 Assignment:
+- [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
+- [Solution](https://sameer-shahzada.github.io/-Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/module2-solution/index.html)
+- [Source code](./module2-solution)
+
