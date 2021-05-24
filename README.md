@@ -7,3 +7,7 @@ About this course The only course you need to become a full-stack web developer.
 -HTML5/CSS3 -JAVASCRIPT (ES5) -Modern JavaScript (ES6) -JQUERY & JQUERY UI -TWITTER BOOTSTRAP -Node.js -Git & Github -Heroku -PHP & MYSQL -WORDPRESS -AJAX
 
 -JSON -MOBILE APPS -GOOGLE MAPS APIS -FACEBOOK WIDGETS -GOOGLE PLUS WIDGETS -TWITTER WIDGETS -AND MORE!
+
+## Projects 
+- [Web Pages](Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects/1. Maths Website (HTML + CSS) Project/
+Math-Website.html)
