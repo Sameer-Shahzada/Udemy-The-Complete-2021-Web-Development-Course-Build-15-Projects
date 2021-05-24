@@ -9,8 +9,18 @@ About this course The only course you need to become a full-stack web developer.
 -JSON -MOBILE APPS -GOOGLE MAPS APIS -FACEBOOK WIDGETS -GOOGLE PLUS WIDGETS -TWITTER WIDGETS -AND MORE!
 
 ## Projects 
-
 HTML + CSS Projects:
+Math Website
 - [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//1.Maths-Website(HTML+CSS)Project/Math-Website.html)
 - [Source code](./1.Maths-Website(HTML+CSS)Project/)
+
+Photo Gallery
+- [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//1.Photo-Gallery/index.html)
+- [Source code](./2.Photo-Gallery/)
+
+Payment Gateway 
+- [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//3.Payment-Gateway/index.html)
+- [Source code](./3.Payment-Gateway/)
+
+
 
