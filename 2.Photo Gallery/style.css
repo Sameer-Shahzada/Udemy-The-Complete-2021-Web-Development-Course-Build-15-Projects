@@ -1,0 +1,44 @@
+*
+{
+    box-sizing: border-box;
+
+}
+#mainContainer
+{
+display: flex;
+flex-wrap: wrap;
+
+}
+.column
+{
+    flex: 1;
+    min-width: 300px;
+
+}
+
+.column:nth-child(1)
+{
+    background-color:cornflowerblue;
+    
+    
+}
+.column:nth-child(2)
+{
+    background-color:chocolate;
+   
+}
+.column:nth-child(3)
+{
+    background-color:greenyellow;
+   
+}
+.column:nth-child(4)
+{
+    background-color:lightcoral;
+    
+}
+
+img
+{  
+    width: 100%;
+}
