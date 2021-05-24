@@ -14,7 +14,6 @@ Math-Website.html)
 
 Module2 Assignment:
 - [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
-- [Solution](Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects/1.Maths-Website(HTML+CSS)Project/Math-Website.html
-)
+- [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//1.Maths-Website(HTML+CSS)Project/Math-Website.html)
 - [Source code](./module2-solution)
 
