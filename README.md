@@ -23,7 +23,7 @@ Payment Gateway (HTML + CSS)
 - [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//3.Payment-Gateway/index.html)
 - [Source code](./3.Payment-Gateway/)
 
-Payment Gateway (HTML + CSS + JavaScript)
+Maths Game (HTML + CSS + JavaScript)
 - [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//4.Maths-Game(HTML+CS+JS)/index.html)
 - [Source code](./4.Maths-Game(HTML+CSS+JS)/)
 
