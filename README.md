@@ -30,8 +30,8 @@ Maths Game (HTML + CSS + JavaScript)
 
 Fruits Slice Game (HTML + CSS + Jquery)
 
-- [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//5.Fruits-Slice-Game(HTML+CSS+Jauery)/index.html)
-- [Source code](./5.Fruits-Slice-Game(HTML+CSS+Jquery)/)
+- [Solution](https://sameer-shahzada.github.io/Udemy-The-Complete-2021-Web-Development-Course-Build-15-Projects//5.Fruits-Slice-Game/index.html)
+- [Source code](./5.Fruits-Slice-Game/)
 
 
 
